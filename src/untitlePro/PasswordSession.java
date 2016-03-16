@@ -11,5 +11,10 @@ public class PasswordSession extends Thread{
 		
 	}
 	
+	
+	public void doNothing(){
+		System.out.println("notihng");
+	}
+	
 
 }
