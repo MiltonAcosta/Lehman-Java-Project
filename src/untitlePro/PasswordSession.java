@@ -1,5 +1,15 @@
 package untitlePro;
 
-public class PasswordSession {
+/* An instance of the PasswordManager will be managed
+ *  by this class
+ */
+
+
+public class PasswordSession extends Thread{
+	
+	public void run(){
+		
+	}
+	
 
 }
